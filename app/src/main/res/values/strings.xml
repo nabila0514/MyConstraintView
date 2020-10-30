@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyConstraintView</string>
+    <string name="content_text" />
+    <string name="stock" />
+    <string name="dummy_value" />
+    <string name="dummy_photos" />
+    <string name="content_specs_battery" />
+    <string name="battery" />
+    <string name="content_specs_size" />
+    <string name="size" />
+    <string name="content_specs_display" />
+    <string name="display" />
+    <string name="spesifikasi" />
+    <string name="seller" />
+    <string name="my_name" />
+    <string name="buy" />
+</resources>
